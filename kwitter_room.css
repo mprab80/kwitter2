@@ -1,0 +1,13 @@
+#logout{
+    float:right
+}
+body{
+    background-color:lightblue;
+}
+#title1{
+    color:palevioletred;
+    text-align: center;
+}
+#roomname{
+    width: 50%;
+}
